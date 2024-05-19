@@ -1,0 +1,9 @@
+pydantic==1.10.7
+pyTelegramBotAPI==4.10.0
+pytest
+
+flask==2.3.1
+watchdog
+
+requests==2.29
+types-requests

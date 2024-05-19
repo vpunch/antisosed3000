@@ -1,0 +1,8 @@
+.mypy_cache
+__pycache__
+celerybeat-schedule
+instance
+venv
+secret.py
+tmp.py
+ngrok.yaml
